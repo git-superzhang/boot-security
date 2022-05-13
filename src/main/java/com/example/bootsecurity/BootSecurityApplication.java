@@ -31,6 +31,7 @@ public class BootSecurityApplication {
         logger.warn("警告");
         logger.error("异常");
         logger.error("master commit");
+        logger.error("master update1");
 
     }
 
