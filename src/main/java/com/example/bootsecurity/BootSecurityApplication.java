@@ -20,6 +20,7 @@ public class BootSecurityApplication {
 
         logger.info("test commit");
         logger.info("hot-fix commit");
+        logger.info("master commit");
 
         app.run(args);
 
