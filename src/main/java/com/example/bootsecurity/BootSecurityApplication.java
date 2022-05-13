@@ -19,6 +19,7 @@ public class BootSecurityApplication {
         SpringApplication app = new SpringApplication(BootSecurityApplication.class);
 
         logger.info("test commit");
+        logger.info("hot-fix commit");
 
         app.run(args);
 
