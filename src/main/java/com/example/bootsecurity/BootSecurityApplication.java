@@ -21,6 +21,7 @@ public class BootSecurityApplication {
         logger.info("test commit");
         logger.info("hot-fix commit");
         logger.info("master commit");
+        logger.info("hot-fix commit2");
 
         app.run(args);
 
