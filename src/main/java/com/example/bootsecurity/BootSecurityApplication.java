@@ -30,6 +30,8 @@ public class BootSecurityApplication {
         logger.info("信息");
         logger.warn("警告");
         logger.error("异常");
+        logger.error("master commit");
+
     }
 
 }
